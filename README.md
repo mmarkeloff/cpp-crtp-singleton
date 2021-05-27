@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/mmarkeloff/cpp-crtp-singleton.svg?branch=main)](https://travis-ci.com/mmarkeloff/cpp-crtp-singleton)
+
 <h1 align="center">
 cpp-crtp-singleton
 </h1>
@@ -24,3 +26,7 @@ int main(int argc, char* argv[]) {
 ## Examples
 
 See [sample project](sample) for more complete usage examples.
+
+## Documentation
+
+See automatic generated [docs](https://mmarkeloff.github.io/cpp-crtp-singleton/) for more information.
