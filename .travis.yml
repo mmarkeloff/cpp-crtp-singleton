@@ -22,6 +22,7 @@ jobs:
       name: "Sample project"
       script: ./ci/build/sample.sh
     - stage: "Test"
+      name: "Unit"
       script: ./ci/test/unit.sh
 
 deploy:
